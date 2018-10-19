@@ -4,12 +4,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Getting Started
 
-- [ ] npm i -g @angular/cli
+- [ ] ```npm i -g @angular/cli```
 - [ ] Navigate to the directory you wish to store this repo
-- [ ] git clone https://github.com/22arw/ArmorySarg
+- [ ] ```git clone https://github.com/22arw/ArmorySarg```
 - [ ] cd into the newly created folder
-- [ ] npm install
-- [ ] npm run electron
+- [ ] ```npm install```
+- [ ] ```npm run electron```
 
 ## Task Listings
 
