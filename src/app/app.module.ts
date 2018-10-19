@@ -5,11 +5,13 @@ import { AppComponent } from './app.component';
 import { ClarityModule } from '@clr/angular';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppAlertComponent } from './app-alert/app-alert.component';
+import { HeaderComponent } from './header/header.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    AppAlertComponent
+    AppAlertComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,
